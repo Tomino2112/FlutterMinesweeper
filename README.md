@@ -2,10 +2,10 @@
 
 A Minesweeper clone made in Flutter.
 
-<div align="center">
-  <img align="left" src="https://flutter-glimpse.tomasdostal.com/?r=tomino2112%2FFlutterMinesweeper%23flutter-glimpse&t=test_driver%2Fglimpse" width="320" />
-  <img align="right" src="https://flutter-glimpse.tomasdostal.com/?r=tomino2112%2FFlutterMinesweeper%23flutter-glimpse" width="320" />
-</div>
+<img align="left" src="https://flutter-glimpse.tomasdostal.com/?r=tomino2112%2FFlutterMinesweeper%23flutter-glimpse" width="320" />
+<img align="center" src="https://flutter-glimpse.tomasdostal.com/?r=tomino2112%2FFlutterMinesweeper%23flutter-glimpse&t=test_driver%2Fglimpse" width="320" />
+
+--------
 
 ## Getting Started
 
